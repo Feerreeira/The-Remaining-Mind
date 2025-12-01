@@ -8,11 +8,11 @@ FBXHeaderExtension:  {
 		Version: 1000
 		Year: 2025
 		Month: 11
-		Day: 28
-		Hour: 11
-		Minute: 59
-		Second: 52
-		Millisecond: 274
+		Day: 30
+		Hour: 17
+		Minute: 31
+		Second: 6
+		Millisecond: 929
 	}
 	Creator: "FBX SDK/FBX Plugins version 2020.3.4"
 	OtherFlags:  {
@@ -76,7 +76,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2154055279680, "Scene", "Scene" {
+	Document: 2475073462992, "Scene", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", ""
@@ -271,7 +271,7 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	Geometry: 2168472062112, "Geometry::Scene", "Mesh" {
+	Geometry: 2477734263968, "Geometry::Scene", "Mesh" {
 		Vertices: *294 {
 			a: -0,-50,50,-25,-50,50,-25,-25,50,-0,-25,50,-50,-50,50,-50,-25,50,-50,0,50,-25,0,50,-0,0,50,-25,25,50,-0,25,50,-50,25,50,-50,50,50,-25,50,50,-0,50,50,50,0,50,25,0,50,25,25,50,50,25,50,25,50,50,50,50,50,50,-50,50,25,-50,50,25,-25,50,50,-25,50,-50,50,0,-25,50,0,-25,50,25,-50,50,25,-0,50,0,-0,50,25,-50,50,-50,-25,50,-50,-25,50,-25,-50,50,-25,-0,50,-50,-0,50,-25,25,50,-50,25,50,-25,50,50,-50,50,50,-25,50,50,0,25,50,0,25,50,25,50,50,25,-0,0,-50,-0,25,-50,-25,25,-50,-25,0,-50,-50,25,-50,-50,0,-50,-0,-50,-50,-0,-25,-50,-25,-25,-50,-25,-50,-50,-50,-25,-50,-50,-50,-50,50,-50,-50,50,-25,-50,25,-25,-50,25,-50,-50,50,0,-50,25,0,-50,50,25,-50,25,25,-50,-50,-50,-25,-25,-50,-25,-50,-50,0,-25,-50,0,-0,-50,0,-0,-50,-25,-50,-50,25,-25,-50,25,-0,-50,25,25,-50,25,25,-50,0,50,-50,25,50,-50,0,25,-50,-25,50,-50,-25,50,-25,25,50,0,25,50,0,0,50,-25,0,50,25,25,50,25,0,50,25,-25,50,0,-25,50,-25,-25,-50,-25,-25,-50,-25,0,-50,0,-25,-50,0,0,-50,25,-25,-50,25,0,-50,0,25,-50,25,25,-50,-25,25
 		} 
@@ -365,7 +365,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2167266903440, "Model::Parede_", "Mesh" {
+	Model: 2485940695984, "Model::Parede_", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationOrder", "enum", "", "",4
@@ -379,7 +379,7 @@ Objects:  {
 		Shading: W
 		Culling: "CullingOff"
 	}
-	Material: 2166566347504, "Material::dfk_wall_a", "" {
+	Material: 2476868327696, "Material::dfk_wall_a", "" {
 		Version: 102
 		ShadingModel: "lambert"
 		MultiLayer: 0
@@ -392,22 +392,22 @@ Objects:  {
 			P: "Opacity", "double", "Number", "",1
 		}
 	}
-	Video: 2168406218640, "Video::NormalMap_Texture", "Clip" {
+	Video: 2485939992288, "Video::NormalMap_Texture", "Clip" {
 		Type: "Clip"
 		Properties70:  {
-			P: "Path", "KString", "XRefUrl", "", "C:\Users\2D\Documents\Unity\Projetos\TheRemainingMind\TheRemainingMind\Assets\importados\RunemarkStudio\DarkFantasyKit [Free]\Meshes\Walls\Materials\dfk_wall_a_normal.png"
+			P: "Path", "KString", "XRefUrl", "", "C:\Users\erica\Documents\Unity\The-Remaining-Mind\Assets\importados\RunemarkStudio\DarkFantasyKit [Free]\Meshes\Walls\Materials\dfk_wall_a_normal.png"
 			P: "RelPath", "KString", "XRefUrl", "", "..\..\importados\RunemarkStudio\DarkFantasyKit [Free]\Meshes\Walls\Materials\dfk_wall_a_normal.png"
 		}
 		UseMipMap: 0
-		Filename: "C:\Users\2D\Documents\Unity\Projetos\TheRemainingMind\TheRemainingMind\Assets\importados\RunemarkStudio\DarkFantasyKit [Free]\Meshes\Walls\Materials\dfk_wall_a_normal.png"
+		Filename: "C:\Users\erica\Documents\Unity\The-Remaining-Mind\Assets\importados\RunemarkStudio\DarkFantasyKit [Free]\Meshes\Walls\Materials\dfk_wall_a_normal.png"
 		RelativeFilename: "..\..\importados\RunemarkStudio\DarkFantasyKit [Free]\Meshes\Walls\Materials\dfk_wall_a_normal.png"
 	}
-	Texture: 2168406216720, "Texture::NormalMap_Texture", "" {
+	Texture: 2485939986048, "Texture::NormalMap_Texture", "" {
 		Type: "TextureVideoClip"
 		Version: 202
 		TextureName: "Texture::NormalMap_Texture"
 		Media: "Video::NormalMap_Texture"
-		FileName: "C:\Users\2D\Documents\Unity\Projetos\TheRemainingMind\TheRemainingMind\Assets\importados\RunemarkStudio\DarkFantasyKit [Free]\Meshes\Walls\Materials\dfk_wall_a_normal.png"
+		FileName: "C:\Users\erica\Documents\Unity\The-Remaining-Mind\Assets\importados\RunemarkStudio\DarkFantasyKit [Free]\Meshes\Walls\Materials\dfk_wall_a_normal.png"
 		RelativeFilename: "..\..\importados\RunemarkStudio\DarkFantasyKit [Free]\Meshes\Walls\Materials\dfk_wall_a_normal.png"
 		ModelUVTranslation: 0,0
 		ModelUVScaling: 1,1
@@ -422,22 +422,22 @@ Objects:  {
 Connections:  {
 	
 	;Model::Parede_, Model::RootNode
-	C: "OO",2167266903440,0
+	C: "OO",2485940695984,0
 	
 	;Material::dfk_wall_a, Model::Parede_
-	C: "OO",2166566347504,2167266903440
+	C: "OO",2476868327696,2485940695984
 	
 	;Geometry::Scene, Model::Parede_
-	C: "OO",2168472062112,2167266903440
+	C: "OO",2477734263968,2485940695984
 	
 	;Texture::NormalMap_Texture, Material::dfk_wall_a
-	C: "OO",2168406216720,2166566347504
+	C: "OO",2485939986048,2476868327696
 	
 	;Texture::NormalMap_Texture, Material::dfk_wall_a
-	C: "OP",2168406216720,2166566347504, "NormalMap"
+	C: "OP",2485939986048,2476868327696, "NormalMap"
 	
 	;Video::NormalMap_Texture, Texture::NormalMap_Texture
-	C: "OO",2168406218640,2168406216720
+	C: "OO",2485939992288,2485939986048
 }
 ;Takes section
 ;----------------------------------------------------
