@@ -9,7 +9,6 @@ public class FirstPersonCamera : MonoBehaviour
     [Header("Camera Settings")]
     [SerializeField] private Transform cameraTransform;
     [SerializeField] private float mouseSensitivity = 0.1f; // Reduced from 2f
-    [SerializeField] private float gamepadSensitivity = 100f;
     
     [Header("Look Constraints")]
     [SerializeField] private float minPitch = -60f;

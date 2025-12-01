@@ -11,9 +11,6 @@ public class FirstPersonController : MonoBehaviour
     [SerializeField] private float moveSpeed = 3.5f;
     [SerializeField] private float gravity = -9.81f;
     
-    [Header("Rotation Settings")]
-    [SerializeField] private float rotationSpeed = 10f;
-    
     // Components
     private CharacterController characterController;
     
