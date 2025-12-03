@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B5BE94C-1D67-C32C-5DDC-C3794997E499}|Assembly-CSharp.csproj|c:\\users\\2d\\documents\\unity\\projetos\\theremainingmind\\theremainingmind\\assets\\scripts\\doorhingecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B5BE94C-1D67-C32C-5DDC-C3794997E499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorhingecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B5BE94C-1D67-C32C-5DDC-C3794997E499}|Assembly-CSharp.csproj|c:\\users\\2d\\documents\\unity\\projetos\\theremainingmind\\theremainingmind\\assets\\scripts\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5BE94C-1D67-C32C-5DDC-C3794997E499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B5BE94C-1D67-C32C-5DDC-C3794997E499}|Assembly-CSharp.csproj|c:\\users\\2d\\documents\\unity\\projetos\\theremainingmind\\theremainingmind\\assets\\scripts\\playerpush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B5BE94C-1D67-C32C-5DDC-C3794997E499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerpush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Library\\PackageCache\\com.unity.render-pipelines.universal@2a2241f53fcd\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@2a2241f53fcd\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B5BE94C-1D67-C32C-5DDC-C3794997E499}|Assembly-CSharp.csproj|C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\assets\\scripts\\camarafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B5BE94C-1D67-C32C-5DDC-C3794997E499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camarafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\DoorHingeControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DoorHingeControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B5BE94C-1D67-C32C-5DDC-C3794997E499}|Assembly-CSharp.csproj|C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B5BE94C-1D67-C32C-5DDC-C3794997E499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\PlayerPush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerPush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\CamaraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CamaraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +43,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DoorHingeControl.cs",
-              "DocumentMoniker": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\DoorHingeControl.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorHingeControl.cs",
-              "ToolTip": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\DoorHingeControl.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DoorHingeControl.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwDcAAAABAAAAAAAAAA==",
+              "Title": "PlayerCamera.cs",
+              "DocumentMoniker": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\PlayerCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCamera.cs",
+              "ToolTip": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\PlayerCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:58:03.233Z",
+              "WhenOpened": "2025-12-03T10:34:25.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Library\\PackageCache\\com.unity.render-pipelines.universal@2a2241f53fcd\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@2a2241f53fcd\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Library\\PackageCache\\com.unity.render-pipelines.universal@2a2241f53fcd\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@2a2241f53fcd\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-11-28T11:22:41.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorHingeControl.cs",
+              "DocumentMoniker": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\DoorHingeControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorHingeControl.cs",
+              "ToolTip": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\DoorHingeControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorHingeControl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:58:03.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlayerPush.cs",
               "DocumentMoniker": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\PlayerPush.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPush.cs",
@@ -55,12 +87,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerPush.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:48:25.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T14:48:25.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -72,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CamaraFollow.cs",
               "DocumentMoniker": "C:\\Users\\2D\\Documents\\Unity\\Projetos\\TheRemainingMind\\TheRemainingMind\\Assets\\Scripts\\CamaraFollow.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CamaraFollow.cs",
