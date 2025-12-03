@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2039999691239513270}
   - component: {fileID: 8901234567890123463}
   m_Layer: 0
-  m_Name: Female_Adult_ColorA
+  m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76,7 +76,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 3.5
   gravity: -9.81
-  rotationSpeed: 10
 --- !u!114 &2039999691239513270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137,7 +136,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cameraTransform: {fileID: 8901234567890123459}
   mouseSensitivity: 0.1
-  gamepadSensitivity: 100
   minPitch: -60
   maxPitch: 60
 --- !u!1 &8901234567890123456
