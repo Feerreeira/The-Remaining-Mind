@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2486941996558793360}
   - component: {fileID: 6943251148741246221}
   m_Layer: 0
-  m_Name: Object001
+  m_Name: Moldura
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 1877719395252345099}
   - component: {fileID: 2946898840797411007}
   m_Layer: 0
-  m_Name: Plane001
+  m_Name: Porta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
