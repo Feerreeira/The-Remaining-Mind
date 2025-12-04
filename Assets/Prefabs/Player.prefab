@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 2039999691239513269}
   - component: {fileID: 2039999691239513270}
   - component: {fileID: 8901234567890123463}
+  - component: {fileID: 6508757000172179643}
+  - component: {fileID: 5098193958685872351}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -138,6 +140,40 @@ MonoBehaviour:
   mouseSensitivity: 0.1
   minPitch: -60
   maxPitch: 60
+--- !u!114 &6508757000172179643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2039999691239513267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d11f95bba31cd9741ac296b2e66211ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactionDistance: 3
+  interactionLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  crosshairController: {fileID: 0}
+--- !u!114 &5098193958685872351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2039999691239513267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d11f95bba31cd9741ac296b2e66211ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactionDistance: 3
+  interactionLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  crosshairController: {fileID: 0}
 --- !u!1 &8901234567890123456
 GameObject:
   m_ObjectHideFlags: 0
